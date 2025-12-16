@@ -9,7 +9,7 @@ This script is primitive and requires Minecraft to be focused on screen and isn'
 
 To restart the script at a certain point, trim the timings in teleport.txt to where you're up to and restart the script, back up the original teleport.txt in case your world needs a second run.
 
-==================
+
 Prerequisites
 =============
 - Minecraft Bedrock/Java edition
