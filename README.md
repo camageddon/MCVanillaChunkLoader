@@ -22,7 +22,6 @@ Optional for verification
 - Amulet or Chunker
 - A world map addon
 
-====================================================
 
 Installation - REQUIRES ALL PRE-REQUISITES
 =====================
@@ -38,7 +37,9 @@ Use
 - Enable cheats
 - For optimal performance, disable clouds and enter the following OPTIONAL commands
 /gamerule doMobSpawning false 
-/gamemode @s spectator **You will need to at least be in creative mode for this**
+/gamemode @s spectator
+**You will need to at least be in creative mode for this**
+  
 - Open "Chunk Loader.ahk"
 - Leave AFK with Minecraft open, the script will stop when completed.
 - **See below for issues and how to fix**
