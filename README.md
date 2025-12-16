@@ -49,5 +49,4 @@ Use
 Hiccups
 ==================
 - The world generation can come out a bit patchy in world viewers - this depends on your computer hardware, tweak the timings to work best for your PC in the script, may be worth giving the script 2 runs through.
-- The script CAN fall over and just spam the chat with "t/tp....". Pause the script with F9, trim the timings in teleport.txt to where you're up to or where it stopped and restart the script.
 - To change the timings to compensate for your computer, open "Chunk Loader.ahk" into Notepad++ and increase the timings in line 4, 10, 32, 36 and 40.
