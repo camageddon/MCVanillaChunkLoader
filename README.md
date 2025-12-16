@@ -36,9 +36,11 @@ Use
 - Set your chunk render distance to as high as it can go, preferably to do this in one run, it needs to generate chunks well at 50+ distance. **See line 50**
 - Enable cheats
 - For optimal performance, disable clouds and enter the following OPTIONAL commands
+  
 /gamerule doMobSpawning false 
 /gamemode @s spectator
-**You will need to at least be in creative mode for this**
+
+- **You will need to at least be in creative mode for this**
   
 - Open "Chunk Loader.ahk"
 - Leave AFK with Minecraft open, the script will stop when completed.
