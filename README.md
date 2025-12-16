@@ -37,8 +37,8 @@ Use
 - Enable cheats
 - For optimal performance, disable clouds and enter the following OPTIONAL commands
   
-/gamerule doMobSpawning false 
-/gamemode @s spectator
+- /gamerule doMobSpawning false 
+- /gamemode @s spectator
 
 - **You will need to at least be in creative mode for this**
   
